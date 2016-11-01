@@ -232,7 +232,7 @@
 
 
 		section[role=main] h3:after {
-			background:url('../img/pictos-titre.png') no-repeat 16px 16px;
+			background:url('../img/pictos-titre.png') no-repeat 0px 0px;
 		}
 
 		section[role=main] .competences h3:after {
